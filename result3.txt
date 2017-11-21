@@ -1,0 +1,137 @@
+len of contents  : 20000
+len of words :  20000
+关键词 / 被覆盖的关键词
+{'实惠', '快', '也好'} {'实惠', '快', '也好'}
+{'不方便', '太长', '太贵'} {'太贵'}
+{'差', '无语'} {'差', '无语'}
+{'满意', '好'} {'满意', '好'}
+{'不错', '也好', '好评'} {'不错', '也好', '好评'}
+覆盖率 :  0.7188374188042292
+平均情感关键词数量 :  2.1091
+         0     1     2     3     4     5     6     7     8     9     10    11  \
+0        实惠     快    也好  None  None  None  None  None  None  None  None  None   
+1       不方便    太长    太贵  None  None  None  None  None  None  None  None  None   
+2         差    无语  None  None  None  None  None  None  None  None  None  None   
+3        满意     好  None  None  None  None  None  None  None  None  None  None   
+4        不错    也好    好评  None  None  None  None  None  None  None  None  None   
+6        高清    最好  None  None  None  None  None  None  None  None  None  None   
+7        不错     好  None  None  None  None  None  None  None  None  None  None   
+8       受不了  None  None  None  None  None  None  None  None  None  None  None   
+9        挺好    满意  None  None  None  None  None  None  None  None  None  None   
+10       可以  None  None  None  None  None  None  None  None  None  None  None   
+11        差   差不多   没有高  None  None  None  None  None  None  None  None  None   
+12       难看     干  None  None  None  None  None  None  None  None  None  None   
+13       垃圾    黑屏  None  None  None  None  None  None  None  None  None  None   
+14        痒  None  None  None  None  None  None  None  None  None  None  None   
+15       失望     慢  None  None  None  None  None  None  None  None  None  None   
+16       不错    安静     好    很好    尽心    满意  None  None  None  None  None  None   
+18     不是满意  None  None  None  None  None  None  None  None  None  None  None   
+19        好  None  None  None  None  None  None  None  None  None  None  None   
+20     不是很好  None  None  None  None  None  None  None  None  None  None  None   
+22      不卡顿     快    很好  None  None  None  None  None  None  None  None  None   
+23        坑    不值   差不多  None  None  None  None  None  None  None  None  None   
+24       挺好  None  None  None  None  None  None  None  None  None  None  None   
+25      还可以  None  None  None  None  None  None  None  None  None  None  None   
+26       不错    信赖    便宜  None  None  None  None  None  None  None  None  None   
+27       便宜    正品     好  None  None  None  None  None  None  None  None  None   
+28      还可以    滋润  None  None  None  None  None  None  None  None  None  None   
+30      一般般     赞  None  None  None  None  None  None  None  None  None  None   
+31       一般  None  None  None  None  None  None  None  None  None  None  None   
+32        破    很快    很高     快  None  None  None  None  None  None  None  None   
+33      不喜欢  None  None  None  None  None  None  None  None  None  None  None   
+...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   
+19966    不错  None  None  None  None  None  None  None  None  None  None  None   
+19967    喜欢  None  None  None  None  None  None  None  None  None  None  None   
+19969    挺好  None  None  None  None  None  None  None  None  None  None  None   
+19970    充分  None  None  None  None  None  None  None  None  None  None  None   
+19971   还可以    很快   不便宜  None  None  None  None  None  None  None  None  None   
+19972   没干燥    普通    很坑     好     贵  None  None  None  None  None  None  None   
+19973    正常    很快   不给力  None  None  None  None  None  None  None  None  None   
+19974     脏     旧  None  None  None  None  None  None  None  None  None  None   
+19975    喜欢    很好  None  None  None  None  None  None  None  None  None  None   
+19976    实用    很好  None  None  None  None  None  None  None  None  None  None   
+19977    破碎    极差  None  None  None  None  None  None  None  None  None  None   
+19978     费    合适  None  None  None  None  None  None  None  None  None  None   
+19979    失望    简易  None  None  None  None  None  None  None  None  None  None   
+19980   不均匀    舒服     烂  None  None  None  None  None  None  None  None  None   
+19981    不值    不香     好    很大  None  None  None  None  None  None  None  None   
+19982    一般    很大  None  None  None  None  None  None  None  None  None  None   
+19984    不错    还好  None  None  None  None  None  None  None  None  None  None   
+19985    可以    便宜  None  None  None  None  None  None  None  None  None  None   
+19986    不错    干净     好  None  None  None  None  None  None  None  None  None   
+19987    恶心  None  None  None  None  None  None  None  None  None  None  None   
+19988    方便    干净    好用    容易  None  None  None  None  None  None  None  None   
+19989    给力    划算    很大  None  None  None  None  None  None  None  None  None   
+19990   一般般   不正品  None  None  None  None  None  None  None  None  None  None   
+19992    麻烦    无语     高  None  None  None  None  None  None  None  None  None   
+19994    太差     慢  None  None  None  None  None  None  None  None  None  None   
+19995     差    简陋    很疼    刺鼻  None  None  None  None  None  None  None  None   
+19996    假货    粗糙    磨手  None  None  None  None  None  None  None  None  None   
+19997    挺好  None  None  None  None  None  None  None  None  None  None  None   
+19998   不适合  None  None  None  None  None  None  None  None  None  None  None   
+19999    一般    更好    正品  None  None  None  None  None  None  None  None  None   
+
+         12    13    14    15  
+0      None  None  None  None  
+1      None  None  None  None  
+2      None  None  None  None  
+3      None  None  None  None  
+4      None  None  None  None  
+6      None  None  None  None  
+7      None  None  None  None  
+8      None  None  None  None  
+9      None  None  None  None  
+10     None  None  None  None  
+11     None  None  None  None  
+12     None  None  None  None  
+13     None  None  None  None  
+14     None  None  None  None  
+15     None  None  None  None  
+16     None  None  None  None  
+18     None  None  None  None  
+19     None  None  None  None  
+20     None  None  None  None  
+22     None  None  None  None  
+23     None  None  None  None  
+24     None  None  None  None  
+25     None  None  None  None  
+26     None  None  None  None  
+27     None  None  None  None  
+28     None  None  None  None  
+30     None  None  None  None  
+31     None  None  None  None  
+32     None  None  None  None  
+33     None  None  None  None  
+...     ...   ...   ...   ...  
+19966  None  None  None  None  
+19967  None  None  None  None  
+19969  None  None  None  None  
+19970  None  None  None  None  
+19971  None  None  None  None  
+19972  None  None  None  None  
+19973  None  None  None  None  
+19974  None  None  None  None  
+19975  None  None  None  None  
+19976  None  None  None  None  
+19977  None  None  None  None  
+19978  None  None  None  None  
+19979  None  None  None  None  
+19980  None  None  None  None  
+19981  None  None  None  None  
+19982  None  None  None  None  
+19984  None  None  None  None  
+19985  None  None  None  None  
+19986  None  None  None  None  
+19987  None  None  None  None  
+19988  None  None  None  None  
+19989  None  None  None  None  
+19990  None  None  None  None  
+19992  None  None  None  None  
+19994  None  None  None  None  
+19995  None  None  None  None  
+19996  None  None  None  None  
+19997  None  None  None  None  
+19998  None  None  None  None  
+19999  None  None  None  None  
+
+[17652 rows x 16 columns]
